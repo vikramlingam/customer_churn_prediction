@@ -1,4 +1,4 @@
-# AlphaCom Customer Churn Prediction
+# Customer Churn Prediction
 
 This repository contains the end-to-end data science project for analyzing and predicting customer churn at AlphaCom, a telecommunications provider.
 
